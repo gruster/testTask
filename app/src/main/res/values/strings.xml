@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="google_maps_key"></string>
+    <string name="logo">Logo</string>
+    <string name="users">Users</string>
+    <string name="network_loading_error">network loading error</string>
+    <string name="data_loading_error">data loading error</string>
+    <string name="loading">Loading</string>
+    <string name="avatar">Avatar</string>
+    <string name="send_email">Send Email</string>
+    <string name="no_email">There are no email clients installed.</string>
+    <string name="user_info">User Info</string>
+    <string name="permission">app has not permission for call</string>
+    <string name="error_loading_webpage">error loading webpage</string>
+    <string name="no_address">has not address</string>
+</resources>
