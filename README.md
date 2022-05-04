@@ -1,3 +1,5 @@
+#if you want to run the app, you need to put google_maps_key in strings
+
 Screens:
 1) Splash Screen
 It shall appear on app start for 3 seconds. After that, "Users Screen" shall appear.
